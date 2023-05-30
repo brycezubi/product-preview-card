@@ -23,7 +23,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the Product Preview Card Component coding challenge](https://brycezubi.github.io/product-preview-card/)
+![Design preview for the Product Preview Card Component coding challenge](https://github.com/brycezubi/product-preview-card/blob/main/design/desktop-preview.jpg)
 
 ### Links
 
