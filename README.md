@@ -27,5 +27,5 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Card Product Component Solution](https://github.com/brycezubi/product-preview-card){:target="_blank"} 
-- Live Site URL: [Product Preview Card Component](https://brycezubi.github.io/product-preview-card/){:target="_blank"} 
+- Solution URL: [Card Product Component Solution](https://github.com/brycezubi/product-preview-card) {:target="_blank"} 
+- Live Site URL: [Product Preview Card Component](https://brycezubi.github.io/product-preview-card/) {:target="_blank"} 
